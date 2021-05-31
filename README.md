@@ -2,4 +2,4 @@
 
 ## I am a novice python programmer, I also study neural networks and AI
 
-![Flutter](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![Flutter](https://img.shields.io/badge/-<MESSAGE>-<COLOR>)
