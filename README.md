@@ -16,4 +16,4 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/ss_sospeed)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/swipe12345)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alex.ss123/)
-[![tiktok](https://img.shields.io/badge/-Tik-Tok-090909?style=for-the-badge&logo=tiktok&logoColor=f5f5f5)](https://www.tiktok.com/@swipe_code?lang=ru-RU)
+[![tiktok](https://img.shields.io/badge/-TikTok-090909?style=for-the-badge&logo=tiktok&logoColor=f5f5f5)](https://www.tiktok.com/@swipe_code?lang=ru-RU)
