@@ -2,7 +2,7 @@
 
 ## I am a novice python programmer, I also study neural networks and AI
 
-![SQL](https://img.shields.io/badge/-Base_SQL-090909?style=for-the-badge&logo=mysql&logoColor=006488)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=006488)
 ![PYTHON](https://img.shields.io/badge/-PYTHON_development-090909?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=dart&logoColor=097CBD)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
