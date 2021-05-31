@@ -8,4 +8,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-090909?style=for-the-badge&logo=python&logoColor=E9D54D)
-![Unity](https://img.shields.io/badge/-Unity_development-090909?style=for-the-badge&logo=C%2b%2blogoColor=6296CC)
+![Unity_dev](https://img.shields.io/badge/-Unity_development-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
