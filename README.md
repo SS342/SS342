@@ -2,4 +2,4 @@
 
 ## I am a novice python programmer, I also study neural networks and AI
 
-![Flutter](https://img.shields.io/badge/-SQL>-000000>?style=for-the-badge&logo=appveyor)
+![Flutter](https://img.shields.io/badge/-SQL-090909>?style=for-the-badge&logo=appveyor)
