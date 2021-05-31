@@ -4,3 +4,6 @@
 
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=006488)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
