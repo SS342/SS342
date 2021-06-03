@@ -19,5 +19,5 @@
 [![tiktok](https://img.shields.io/badge/-TikTok-090909?style=for-the-badge&logo=tiktok&logoColor=f5f5f5)](https://www.tiktok.com/@swipe_code?lang=ru-RU)
 
 
-##My Achievements
+## My Achievements
 [![RMAT Travel start](https://img.shields.io/badge/-RMAT_TRAVEL_START-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://github.com/SS342/SS342/blob/main/assets/2.jpg)
