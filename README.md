@@ -25,6 +25,4 @@
 
 
 ## Exams
-![CSS1](https://img.shields.io/badge/-Russian_language_-_Passed-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![CSS2](https://img.shields.io/badge/-Math_-_passed-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-
+![SQL](https://img.shields.io/badge/-Math-090909?style=for-the-badge&logo=mysql&logoColor=006488)
