@@ -25,4 +25,4 @@
 
 
 ## Exams
-![SQL](https://img.shields.io/badge/-Math_-_passed-090909?style=for-the-badge&logo=mysql&logoColor=006488)
+![SQL](https://img.shields.io/badge/-Math_passed-090909?style=for-the-badge&logo=mysql&logoColor=006488)
