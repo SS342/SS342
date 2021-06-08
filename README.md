@@ -41,3 +41,10 @@
 * PHP
 * Creating vk mini apps
 * and much more
+
+
+![My stats](https://github-readme-stats.vercel.app/api?username=SS342&show_icons=true&theme=radical)
+
+### Top lang
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SS342&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
