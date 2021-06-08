@@ -32,3 +32,7 @@
 
 ## I plan to study it:
 * Node.js
+* More Kali linux
+* PHP
+* Creating vk mini apps
+* and much more
