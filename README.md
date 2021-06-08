@@ -30,7 +30,10 @@
 ![INFO](https://img.shields.io/badge/-Computer_Science_passed-090909?style=for-the-badge&logo=mysql&logoColor=006488)
 
 ## My education
-> school num six c.Dolgoprudni -> 9 classes
+>School num.six c.Dolgoprudni -> 9 classes
+>>College
+>>>I'm coming in
+>
 
 ## I plan to study it:
 * Node.js
