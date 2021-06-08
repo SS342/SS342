@@ -29,6 +29,8 @@
 ![RUS](https://img.shields.io/badge/-Russian_Language_passed-090909?style=for-the-badge&logo=mysql&logoColor=006488)
 ![INFO](https://img.shields.io/badge/-Computer_Science_passed-090909?style=for-the-badge&logo=mysql&logoColor=006488)
 
+## My education
+> school num six c.Dolgoprudni -> 9 classes
 
 ## I plan to study it:
 * Node.js
