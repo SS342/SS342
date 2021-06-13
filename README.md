@@ -40,6 +40,7 @@
 * More Kali linux
 * PHP
 * Creating vk mini apps
+* npm/npx
 * and much more
 
 
