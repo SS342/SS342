@@ -23,6 +23,10 @@
 [![RMAT Travel start](https://img.shields.io/badge/-RMAT_TRAVEL_START-090909?style=for-the-badge&logo=star&logoColor=4F7DB3)](https://github.com/SS342/SS342/blob/main/assets/2.jpg)
 [![NIRS 2021](https://img.shields.io/badge/-NIRS_2021-090909?style=for-the-badge&logo=Star&logoColor=4F7DB3)](https://github.com/SS342/SS342/blob/main/assets/3.jpg)
 [![RINC](https://img.shields.io/badge/-RINC-090909?style=for-the-badge&logo=Star&logoColor=4F7DB3)](https://github.com/SS342/SS342/blob/main/assets/oCY2Ouf7-lk.jpg)
+[![kip](https://img.shields.io/badge/-KipFin-090909?style=for-the-badge&logo=Star&logoColor=4F7DB3)](https://github.com/SS342/SS342/blob/main/assets/КИП%20ФИН%20Победитель%20квеста.jpg)
+[![Career_Accelerator](https://img.shields.io/badge/-Career_Accelerator-090909?style=for-the-badge&logo=Star&logoColor=4F7DB3)](https://github.com/SS342/SS342/blob/main/assets/Карьерный%20акселератор.jpg)
+[![itFest](https://img.shields.io/badge/-IT_fest-090909?style=for-the-badge&logo=Star&logoColor=4F7DB3)](https://github.com/SS342/SS342/blob/main/assets/Краевой%20фестиваль%20IT-FEST.jpg)
+[![python](https://img.shields.io/badge/-Python_course-090909?style=for-the-badge&logo=Star&logoColor=4F7DB3)](https://github.com/SS342/SS342/blob/main/assets/Сертификат%20курсы.jpg)
 
 
 ## Exams
