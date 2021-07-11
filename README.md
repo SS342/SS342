@@ -37,7 +37,7 @@
 ## My education
 >School num.six c.Dolgoprudni -> 9 classes
 >>College
->>>I'm coming in
+>>>Сollege of Computer science and programming at the financial university under the government of the russian federation
 >_
 
 ## I plan to study it:
