@@ -46,6 +46,8 @@
 * PHP
 * Creating vk mini apps
 * npm/npx
+* django
+* Flask
 * and much more
 
 
