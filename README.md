@@ -1,6 +1,6 @@
 [![Heder](https://github.com/SS342/SS342/blob/main/assets/1.jpg)](https://vk.com/ss_sospeed)
 
-## I am a novice python programmer, I also study neural networks and AI
+## I am a novice python programmer, I also study neural networks and AI <3
 
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=006488)
 ![PYTHON](https://img.shields.io/badge/-PYTHON_development-090909?style=for-the-badge&logo=python)
