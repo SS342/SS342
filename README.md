@@ -39,12 +39,12 @@
 
 ## I plan to study it:
 * Node.js
-* More Kali linux
+* More Kali linux - True
 * PHP
 * Creating vk mini apps
-* npm/npx
+* npm/npx - True
 * django
-* Flask
+* Flask - True
 * and much more
 
 
